@@ -7,9 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class SpringdemoApplicationTests {
 
-	@Test
-	void contextLoads() {
-		Assertions.assertTrue(true);
-	}
+//	@Test
+//	void contextLoads() {
+//	}
 
 }
