@@ -9,7 +9,6 @@ class SpringdemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-        Assertions.assertTrue(true);
 	}
 
 }
